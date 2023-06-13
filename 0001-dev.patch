@@ -1,0 +1,46 @@
+From c506a36638e291d5dea22e5972878077618ba7f5 Mon Sep 17 00:00:00 2001
+From: cos12378 <yrias8700@gmail.com>
+Date: Tue, 13 Jun 2023 10:54:13 +0900
+Subject: [PATCH] dev
+
+---
+ README.md  |  1 +
+ index.html | 11 +++--------
+ 2 files changed, 4 insertions(+), 8 deletions(-)
+
+diff --git a/README.md b/README.md
+index 15497df..e6a1376 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+ # html-1
++dev
+\ No newline at end of file
+diff --git a/index.html b/index.html
+index d67c592..7baea60 100644
+--- a/index.html
++++ b/index.html
+@@ -1,16 +1,11 @@
+-<!DOCTYPE html> 김수동님 카레먹으러가요
++<!DOCTYPE html> 
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+-    <title>BTS</title>
++    <title></title>
+ </head> 
+ <body>
+-    Hello world </p>
+-    <h1> SUDONG </h1>
+-    <h2> SUDONG </h2>
+-    <h3> SUDONG </h3>
+-    <h4> SUDONG</h4>
+-    <h5> SUDONG</h5>
++ 
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.40.1.windows.1
+
